@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Zijian Wu"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Researchers and engineers in the field of robotics"
   location         : "Guangzhou, China"
-  employer         : "Hong Kong University of Science and Technology (Guangzhou)"
+  employer         : "HKUST-GZ"
   uri              : # URL
   email            : "robotwzj@gmail.com" 
 
