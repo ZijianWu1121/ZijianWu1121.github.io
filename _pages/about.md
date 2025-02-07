@@ -6,10 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second-year Master's student at HKUST-GZ, with four years of prior work experience in the field of embedded software development for consumer electronics and robotics. My expertise includes operating system architecture, product design, hardware device drivers, and the development of navigation and SLAM algorithms for robots. 
+I am currently a student at [HKUST(GZ)](https://www.hkust-gz.edu.cn/), under the supervision of Prof. [Jie Song]("https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/SONG-Jie/jsongroas"). My research focuses on general grasping and manipulation skills of multi-fingered dexterous hands. Previously, I worked for four years at [TAPO](https://www.tapo.com/en/) and [DREAME](https://www.dreametech.com/?srsltid=AfmBOopjTLrnPBuzvDYJRBLCjDf-zoXCgxdxI4_0B7PR0jSNGym5bSyC) as an embedded software and robotics algorithm engineer, where I contributed to the development of [smart security cameras](https://www.tp-link.com/us/home-networking/cloud-camera/tapo-c320ws/) and [robotic vacuum cleaners](https://www.tp-link.com/us/smart-home/robot-vacuum/tapo-rv30c-plus/).
 
-I earned my Bachelor's degree from SCUT, where I actively participated in robotics competitions such as RoboMaster and RoboCon, securing consecutive championships in RoboMaster in 2017 and 2018.
+I hold a Bachelor's degree in Automation from [SCUT](https://www.scut.edu.cn/en/), where I participated in various robotics competitions, achieving championships in the 3rd and 4th [RoboMaster](https://www.robomaster.com/en-US) competitions and reaching the top 16 in the [ABU RoboCon](http://aburobocon2019.mnb.mn/en/gallery/show/50).
 
-My technical skill set encompasses a comprehensive understanding of embedded software systems, MCU development, Linux drivers, kernel and application programming, computer network protocol stack development, robotic navigation, SLAM algorithm development, and multi-view geometry algorithms.
-
-Currently, my research focuses on the general grasping and manipulation skills of multi-fingered dexterous hands.
+My technical expertise includes Embedded Drivers and Systems in MCU and SOC, 802.11 protocol stack, Robotic Navigation, SLAM, Industrial Vision Measurement, and Reinforcement Learning. I am proficient in programming languages such as Assembly, C/C++, and Python.
