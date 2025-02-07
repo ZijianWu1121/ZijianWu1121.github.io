@@ -22,11 +22,11 @@ repository               : "ZijianWu1121/ZijianWu1121.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Zijian Wu"
+  name             : "Zijian Wu (伍子健)"
   pronouns         : # example: "she/her"  
   bio              : "Engineers & Researchers"
   location         : "GuangZhou(Canton), China"
-  employer         : "HKUST-GZ"
+  employer         : "HKUST(GZ)"
   uri              : # URL
   email            : "robotwzj@gmail.com" 
 
