@@ -19,8 +19,10 @@ My technical expertise includes Embedded Drivers and Systems in MCU and SOC, 802
 
 ![image](../images/fungrasp.gif)
 
-FunGrasp: Functional Grasping for Diverse Dexterous Hands, [[Project Page](https://hly-123.github.io/FunGrasp/)], [[Paper](https://arxiv.org/pdf/2411.16755)]
+* FunGrasp: Functional Grasping for Diverse Dexterous Hands, [[Project Page](https://hly-123.github.io/FunGrasp/)], [[Paper](https://arxiv.org/pdf/2411.16755)]
+
+TBD...
 
 
-Robust Dexterous Grasping of General Objects from Single-view Perception, [[Project Page], [Paper]]
+* Robust Dexterous Grasping of General Objects from Single-view Perception, [[Project Page], [Paper]]
 
