@@ -17,13 +17,7 @@ My technical expertise includes Embedded Drivers and Systems in MCU and SOC, 802
 
 # Publications
 
-*\* indicates equal contribution*
-
 ![image](../images/fungrasp.gif)
 
 FunGrasp: Functional Grasping for Diverse Dexterous Hands, [[Project Page](https://hly-123.github.io/FunGrasp/), [Paper](https://arxiv.org/pdf/2411.16755)]
-
-[Linyi Huang*](https://scholar.google.com/citations?user=boUC8sYAAAAJ&hl=en), [Hui Zhang*](https://zdchan.github.io/), [Zijian Wu](https://zijianwu1121.github.io/), [Sammy Christen](https://ait.ethz.ch/people/sammyc), [Jie Song](https://ait.ethz.ch/people/song)
-
-
 
