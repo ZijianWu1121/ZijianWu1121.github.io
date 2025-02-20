@@ -27,7 +27,7 @@ I have a strong interest in technology, especially robotics. I will devote mysel
 TBD...
 
 
-* Robust Dexterous Grasping of General Objects from Single-view Perception, [[Project Page], [Paper]]
+* Dexterous Grasping, [[Project Page], [Paper]]
 
 # Awards
 * 2024, Second Prize, ICRA [AgileX Sim2Real Challenge](http://www.sim2real.net/track/track/?nav=AXS2024)
