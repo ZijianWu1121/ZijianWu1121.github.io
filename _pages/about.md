@@ -20,19 +20,24 @@ I have a strong interest in technology, especially robotics. I will devote mysel
 
 # Publications
 
-<video id="fungrasp" width="320" height="240" controls="controls" autoplay="autoplay" loop="loop">
-      <source id="mp4" src="images/fungrasp.mp4" type="video/mp4">
-      <p>Your user agent does not support the HTML5 Video element.</p>
-</video>
+*\* indicates equal contribution*
 
-* FunGrasp: Functional Grasping for Diverse Dexterous Hands, [[Project Page](https://hly-123.github.io/FunGrasp/)], [[Paper](https://arxiv.org/pdf/2411.16755)]
+## \* Robust Dexterous Grasping of General Objects from Single-view Perception [[Project Page](https://zdchan.github.io/Robust_DexGrasp/)] [[Paper](https://arxiv.org/pdf/2504.05287)]
 
-<video id="RDG" width="320" height="240" controls="controls" autoplay="autoplay" loop="loop">
+[Hui Zhang\*](https://zdchan.github.io/), **[Zijian Wu\*](https://zijianwu1121.github.io/)**, [Linyi Huang](https://hly-123.github.io/FunGrasp/), [Sammy Christen](https://ait.ethz.ch/people/sammyc), [Jie Song](https://ait.ethz.ch/people/song) 
+<video id="RDG" width="640" height="480" controls="controls" autoplay="autoplay" loop="loop">
       <source id="mp4" src="images/robustdexgrasp.mp4" type="video/mp4">
       <p>Your user agent does not support the HTML5 Video element.</p>
 </video>
 
-* Robust Dexterous Grasping of General Objects from Single-view Perception, [[Project Page](https://zdchan.github.io/Robust_DexGrasp/)], [[Paper](https://arxiv.org/pdf/2504.05287)]
+## \* FunGrasp: Functional Grasping for Diverse Dexterous Hands [[Project Page](https://hly-123.github.io/FunGrasp/)] [[Paper](https://arxiv.org/pdf/2411.16755)]
+[Linyi Huang\*](https://hly-123.github.io/FunGrasp/), [Hui Zhang\*](https://zdchan.github.io/), **[Zijian Wu](https://zijianwu1121.github.io/)**, [Sammy Christen](https://ait.ethz.ch/people/sammyc), [Jie Song](https://ait.ethz.ch/people/song) 
+
+*Robotics and Automation Letters (RA-L), 2025*
+<video id="fungrasp" width="640" height="480" controls="controls" autoplay="autoplay" loop="loop">
+      <source id="mp4" src="images/fungrasp.mp4" type="video/mp4">
+      <p>Your user agent does not support the HTML5 Video element.</p>
+</video>
 
 # Awards
 * 2024, Second Prize, ICRA [AgileX Sim2Real Challenge](http://www.sim2real.net/track/track/?nav=AXS2024)
