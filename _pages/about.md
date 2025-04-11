@@ -20,14 +20,19 @@ I have a strong interest in technology, especially robotics. I will devote mysel
 
 # Publications
 
-![image](../images/fungrasp.gif)
+<video id="fungrasp" width="320" height="240" controls="controls" autoplay="autoplay" loop="loop">
+      <source id="mp4" src="images/fungrasp.mp4" type="video/mp4">
+      <p>Your user agent does not support the HTML5 Video element.</p>
+</video>
 
 * FunGrasp: Functional Grasping for Diverse Dexterous Hands, [[Project Page](https://hly-123.github.io/FunGrasp/)], [[Paper](https://arxiv.org/pdf/2411.16755)]
 
-TBD...
+<video id="RDG" width="320" height="240" controls="controls" autoplay="autoplay" loop="loop">
+      <source id="mp4" src="images/robustdexgrasp.mp4" type="video/mp4">
+      <p>Your user agent does not support the HTML5 Video element.</p>
+</video>
 
-
-* Dexterous Grasping, [[Project Page], [Paper]]
+* Robust Dexterous Grasping of General Objects from Single-view Perception, [[Project Page](https://zdchan.github.io/Robust_DexGrasp/)], [[Paper](https://arxiv.org/pdf/2504.05287)]
 
 # Awards
 * 2024, Second Prize, ICRA [AgileX Sim2Real Challenge](http://www.sim2real.net/track/track/?nav=AXS2024)
