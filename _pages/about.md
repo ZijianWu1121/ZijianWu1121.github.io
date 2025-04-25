@@ -15,7 +15,7 @@ I have a strong interest in technology, especially robotics. I will devote mysel
 
 # Education
 
-* M.S. in [HKUST(GZ)](https://www.hkust-gz.edu.cn/), 2023-now
+* M.S./PhD in [HKUST(GZ)](https://www.hkust-gz.edu.cn/), 2023-now
 * B.S. in [SCUT](https://www.scut.edu.cn/en/), 2015-2019
 
 # Publications
