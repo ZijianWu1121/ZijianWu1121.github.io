@@ -30,6 +30,12 @@ redirect_from:
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
 }
 
+.publication-journal {
+  font-size: 0.9em;
+  color: #666666;
+  font-style: italic;
+}
+
 @media (max-width: 768px) {
   .publication-container {
     flex-direction: column;
@@ -57,7 +63,7 @@ I have a strong interest in technology, especially robotics. I will devote mysel
 
 # Publications
 
-## \* Robust Dexterous Grasping of General Objects from Single-view Perception [[Project Page](https://zdchan.github.io/Robust_DexGrasp/)] [[Paper](https://arxiv.org/pdf/2504.05287)]
+## \* Robust Dexterous Grasping of General Objects from Single-view Perception [[🔗 Project Page](https://zdchan.github.io/Robust_DexGrasp/)] [[Paper](https://arxiv.org/pdf/2504.05287)]
 
 <div class="publication-container">
   <div class="publication-content">
@@ -71,12 +77,13 @@ I have a strong interest in technology, especially robotics. I will devote mysel
   </div>
 </div>
 
-## \* FunGrasp: Functional Grasping for Diverse Dexterous Hands [[Project Page](https://hly-123.github.io/FunGrasp/)] [[Paper](https://arxiv.org/pdf/2411.16755)]
-
 <div class="publication-container">
   <div class="publication-content">
-    <p><strong>Authors:</strong> [Linyi Huang\*](https://hly-123.github.io/FunGrasp/), [Hui Zhang\*](https://zdchan.github.io/), **[Zijian Wu](https://zijianwu1121.github.io/)**, [Sammy Christen](https://ait.ethz.ch/people/sammyc), [Jie Song](https://ait.ethz.ch/people/song)</p>
-    <p><em>Robotics and Automation Letters (RA-L), 2025</em></p>
+    FunGrasp: Functional Grasping for Diverse Dexterous Hands
+    [[🌐 Project Page](https://hly-123.github.io/FunGrasp/)] [📘Paper(https://arxiv.org/pdf/2411.16755)]
+
+    Linyi Huang*, Hui Zhang*, Zijian Wu, Sammy Christen, Jie Song
+    <div class="publication-journal">Robotics and Automation Letters (RA-L), 2025</div>
   </div>
   <div class="publication-video">
     <video id="fungrasp" width="300" height="225" controls="controls" autoplay="autoplay" loop="loop">
