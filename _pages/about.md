@@ -7,9 +7,46 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+.publication-container {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  margin: 20px 0;
+}
+
+.publication-content {
+  flex: 1;
+}
+
+.publication-video {
+  flex: 0 0 300px;
+}
+
+.publication-video video {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+@media (max-width: 768px) {
+  .publication-container {
+    flex-direction: column;
+  }
+  
+  .publication-video {
+    flex: none;
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+}
+</style>
+
 # About me
 
-I am currently a student at [HKUST(GZ)](https://www.hkust-gz.edu.cn/), under the supervision of Prof. [Jie Song]("https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/SONG-Jie/jsongroas"). My research focuses on general grasping and manipulation skills of multi-fingered dexterous hands. Previously, I worked for four years at [TAPO](https://www.tapo.com/en/) and [DREAME](https://www.dreametech.com/?srsltid=AfmBOopjTLrnPBuzvDYJRBLCjDf-zoXCgxdxI4_0B7PR0jSNGym5bSyC) as an embedded software and robotics algorithm engineer, where I contributed to the development of [smart security cameras](https://www.tp-link.com/us/home-networking/cloud-camera/tapo-c320ws/) and [robotic vacuum cleaners](https://www.tp-link.com/us/smart-home/robot-vacuum/tapo-rv30c-plus/).
+I am currently a PhD student at [HKUST(GZ)](https://www.hkust-gz.edu.cn/), under the supervision of Prof. [Jie Song]("https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/SONG-Jie/jsongroas"). My research focuses on multi-fingered dexterous hands, Reinforcement Learning, Vision-Language-Action model for manipulation. Previously, I worked for four years at [TAPO](https://www.tapo.com/en/) and [DREAME](https://www.dreametech.com/?srsltid=AfmBOopjTLrnPBuzvDYJRBLCjDf-zoXCgxdxI4_0B7PR0jSNGym5bSyC) as an embedded software and robotics algorithm engineer, where I contributed to the development of [smart security cameras](https://www.tp-link.com/us/home-networking/cloud-camera/tapo-c320ws/) and [robotic vacuum cleaners](https://www.tp-link.com/us/smart-home/robot-vacuum/tapo-rv30c-plus/).
 
 I have a strong interest in technology, especially robotics. I will devote myself to the research and development of robots to serve human.
 
@@ -20,24 +57,34 @@ I have a strong interest in technology, especially robotics. I will devote mysel
 
 # Publications
 
-*\* indicates equal contribution*
-
 ## \* Robust Dexterous Grasping of General Objects from Single-view Perception [[Project Page](https://zdchan.github.io/Robust_DexGrasp/)] [[Paper](https://arxiv.org/pdf/2504.05287)]
 
-[Hui Zhang\*](https://zdchan.github.io/), **[Zijian Wu\*](https://zijianwu1121.github.io/)**, [Linyi Huang](https://hly-123.github.io/FunGrasp/), [Sammy Christen](https://ait.ethz.ch/people/sammyc), [Jie Song](https://ait.ethz.ch/people/song) 
-<video id="RDG" width="640" height="480" controls="controls" autoplay="autoplay" loop="loop">
+<div class="publication-container">
+  <div class="publication-content">
+    <p><strong>Authors:</strong> [Hui Zhang\*](https://zdchan.github.io/), **[Zijian Wu\*](https://zijianwu1121.github.io/)**, [Linyi Huang](https://hly-123.github.io/FunGrasp/), [Sammy Christen](https://ait.ethz.ch/people/sammyc), [Jie Song](https://ait.ethz.ch/people/song)</p>
+  </div>
+  <div class="publication-video">
+    <video id="RDG" width="300" height="225" controls="controls" autoplay="autoplay" loop="loop">
       <source id="mp4" src="images/robustdexgrasp.mp4" type="video/mp4">
       <p>Your user agent does not support the HTML5 Video element.</p>
-</video>
+    </video>
+  </div>
+</div>
 
 ## \* FunGrasp: Functional Grasping for Diverse Dexterous Hands [[Project Page](https://hly-123.github.io/FunGrasp/)] [[Paper](https://arxiv.org/pdf/2411.16755)]
-[Linyi Huang\*](https://hly-123.github.io/FunGrasp/), [Hui Zhang\*](https://zdchan.github.io/), **[Zijian Wu](https://zijianwu1121.github.io/)**, [Sammy Christen](https://ait.ethz.ch/people/sammyc), [Jie Song](https://ait.ethz.ch/people/song) 
 
-*Robotics and Automation Letters (RA-L), 2025*
-<video id="fungrasp" width="640" height="480" controls="controls" autoplay="autoplay" loop="loop">
+<div class="publication-container">
+  <div class="publication-content">
+    <p><strong>Authors:</strong> [Linyi Huang\*](https://hly-123.github.io/FunGrasp/), [Hui Zhang\*](https://zdchan.github.io/), **[Zijian Wu](https://zijianwu1121.github.io/)**, [Sammy Christen](https://ait.ethz.ch/people/sammyc), [Jie Song](https://ait.ethz.ch/people/song)</p>
+    <p><em>Robotics and Automation Letters (RA-L), 2025</em></p>
+  </div>
+  <div class="publication-video">
+    <video id="fungrasp" width="300" height="225" controls="controls" autoplay="autoplay" loop="loop">
       <source id="mp4" src="images/fungrasp.mp4" type="video/mp4">
       <p>Your user agent does not support the HTML5 Video element.</p>
-</video>
+    </video>
+  </div>
+</div>
 
 # Awards
 * 2024, Second Prize, ICRA [AgileX Sim2Real Challenge](http://www.sim2real.net/track/track/?nav=AXS2024)
