@@ -86,6 +86,8 @@ I have a strong interest in technology, especially robotics. I will devote mysel
     [🌐 Project Page] [📘 Paper] [code]
 
     <div class="publication-journal">Robotics and Automation Letters (RA-L), 2025</div>
+    <div class="publication-journal">International Conference on Intelligent Robots and Systems (IROS), 2025</div>
+    <div class="publication-journal">2nd Workshop on Dexterous Manipulation at CoRL, Best Poster Award, 2025</div>
   </div>
   <div class="publication-video">
     <video id="fungrasp" width="300" height="225" controls="controls" autoplay="autoplay" loop="loop">
